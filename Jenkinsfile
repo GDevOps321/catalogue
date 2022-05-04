@@ -1,6 +1,6 @@
-@Library('avk') _
+@Library('roboshop') _
 
-avk(
+roboshop(
     
      COMPONENT      :  'catalogue',
      PROJECT_NAME   :   'roboshop',
