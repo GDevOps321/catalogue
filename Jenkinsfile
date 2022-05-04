@@ -1,5 +1,6 @@
 @Library('roboshop') _
 
+
 roboshop (
         COMPONENT             : 'catalogue',
         PROJECT_NAME          : "RoboShop",
