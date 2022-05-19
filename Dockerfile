@@ -1,6 +1,5 @@
 FROM     node
 RUN      mkdir /app
 WORKDIR  /app
-COPY     server.js .
-COPY     package.json .
+COPY     server.js package.json /app/
 CMD      ["node","server.js"]
